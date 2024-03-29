@@ -18,3 +18,17 @@ pip install tqdm=4.64.1
 pip install wandb=0.13.10
 pip install PyWavelets=1.3.0
 ```
+
+## ⏳ Training
+```shell
+sh train.sh
+```
+
+## 📊 Evaluation
+```shell
+sh test.sh
+```
+
+## 👩‍⚖️ License
+Paper submission in progress.
+All rights reserved.
